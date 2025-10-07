@@ -45,7 +45,7 @@ const Hero = () => {
           {/* Left Column - Text Content */}
           <div className="text-center lg:text-left">
             <div className="mb-6">
-              <span className="inline-block px-4 py-2 bg-primary-100 dark:bg-primary-900 text-primary-800 dark:text-primary-200 rounded-full text-sm font-medium mb-4">
+              <span className="inline-block px-4 py-2 bg-primary-100 dark:bg-primary-900 text-primary-800 dark:text-primary-200 rounded-full text-sm font-medium mb-4 lg:mt-0 mt-4">
                 Hello, I'm
               </span>
               <h1 className="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-4">
